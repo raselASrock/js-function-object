@@ -4,3 +4,6 @@ function startFan(){
     console.log("Press the switch");
 }
 startFan();
+startFan();
+startFan();
+startFan();
