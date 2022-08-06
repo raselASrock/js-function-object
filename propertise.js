@@ -18,3 +18,9 @@ console.log(propertyValues);
 var propertyName = "mouse";
 var propertyValues = shopingCart[propertyName];
 console.log(propertyValues);
+
+var movie = {name: "Din- The Day"};
+console.log(movie);
+
+movie.name = "HAWA"
+console.log(movie);
